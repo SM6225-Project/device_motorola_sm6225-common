@@ -377,7 +377,6 @@ PRODUCT_PACKAGES += \
 # Rootdir
 PRODUCT_PACKAGES += \
     init.class_main.sh \
-    init.mdm.sh \
     init.mmi.boot.sh \
     init.mmi.laser.sh \
     init.mmi.touch.sh \
