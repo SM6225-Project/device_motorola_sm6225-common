@@ -366,6 +366,8 @@ PRODUCT_PACKAGES += \
     libjson \
     libprotobuf-cpp-full-3.9.1-vendorcompat \
     librmnetctl \
+    libsqlite.vendor:64 \
+    libsysutils.vendor:64 \
     libxml2
 
 # Rootdir
