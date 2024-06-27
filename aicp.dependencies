@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "SM6225-Project/kernel_motorola_sm6225",
+    "target_path": "kernel/motorola/sm6225"
+  },
+  {
+    "repository": "AICP/hardware_motorola",
+    "target_path": "hardware/motorola"
+  }
+]
