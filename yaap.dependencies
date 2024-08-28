@@ -1,0 +1,26 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "SM6225-Project/proprietary_vendor_motorola_devon",
+        "target_path":  "vendor/motorola/devon",
+        "revision":     "Fourteen"
+    },
+    {
+        "remote":       "github",
+        "repository":   "TheMuppets/proprietary_vendor_motorola_sm6225-common",
+        "target_path":  "vendor/motorola/sm6225-common",
+        "revision":     "lineage-21"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_hardware_motorola",
+        "target_path":  "hardware/motorola",
+        "revision":     "lineage-21"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_system_qcom",
+        "target_path":  "system/qcom",
+        "revision":     "lineage-21"
+    {
+]
